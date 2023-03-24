@@ -3,11 +3,11 @@
 @media screen and (min-width:10px) and (max-width:500px){
   
 div.sample1 {border:3px solid red; background-color: rgba(50, 50, 10, 0.1); }
-p.sample2 {border:inherit; background-color: rgba(200, 0, 50, 0.1); }
+p.sample2 {border:inherit; background-color: rgba(200, 0, 50, 0.3); }
 
-div.sample3 {border:3px solid lime; background-color: rgba(0, 200, 100, 0.1); }  
-p.sample4 {border:3px solid pink; background-color: rgba(0, 50, 200, 0.1); }
+div.sample3 {border:3px solid lime; background-color: rgba(0, 200, 100, 0.3); }  
+p.sample4 {border:3px solid pink; background-color: rgba(0, 50, 200, 0.3); }
 
-div.sample5 {border:3px solid orange; background-color: rgba(250, 100, 50, 0.1); }
+div.sample5 {border:3px solid orange; background-color: rgba(250, 100, 50, 0.3); }
 
 }  
