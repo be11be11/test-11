@@ -2,7 +2,7 @@
 
 @media screen and (min-width:10px) and (max-width:500px){
   
-div.sample3 {border:1px solid #000000;}
-p.sample4 {border:inherit;}
+div.sample3 {border:3px solid red; background-color: rgba(50, 200, 50, 0.2); }
+p.sample4 {border:inherit; background-color: rgba(200, 10, 50, 0.2); }
   
 }  
